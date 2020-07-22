@@ -1,13 +1,13 @@
-body { background-color: #222831; }
+body { background-color: #eaf6f6; }
 div { align-content : center; }
 hr 
 { 
      border-style: none;
      border-top-style: dotted ;
-     border-color: #393e46;
+     border-color: #fcfefe;
      border-width: 8px;
-     background-color: #222831 ;
+     background-color: #eaf6f6;
      width: 6%;
 }
-h1,h2,h3,caption,label { color: #00adb5; }
-p,li,td { color : #eeeeee; }
+h1,h2,h3,caption,label { color: #66bfbf; }
+p,li,td { color : grey; }
